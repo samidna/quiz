@@ -1,0 +1,63 @@
+.container .form-control ul li a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+  text-transform: capitalize;
+  padding: 10px;
+}
+
+.container .form-control ul li a:hover {
+  color: blue;
+}
+
+.container .form-control .col-7 .col7_input {
+  position: relative;
+}
+
+.container .form-control .col-7 .col7_input input {
+  padding-left: 30px;
+  border-radius: 5px;
+  width: 650px;
+  height: 40px;
+}
+
+.container .form-control .col-7 .col7_icon {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+}
+
+.container .form-control .col-5 .col5_input {
+  position: relative;
+}
+
+.container .form-control .col-5 .col5_input input {
+  height: 40px;
+  padding-left: 25px;
+}
+
+.container .form-control .col-5 .col5_input .col5_icon {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+.container .form-control .col-5 .col5_input .col5_icon:nth-child(4) {
+  top: 5px;
+  left: 225px;
+}
+
+.container .form-control .col-5 input {
+  border-radius: 5px;
+}
+
+.container .form-control button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: #d9d9d9;
+  border-radius: 5px;
+  padding: 10px 50px;
+  margin-top: 20px;
+}
+/*# sourceMappingURL=style.css.map */
